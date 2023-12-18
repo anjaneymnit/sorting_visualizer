@@ -1,0 +1,31 @@
+.array-bar
+{
+    width: 4px;
+    height: 15px;
+    display : inline-block;
+    margin: 60px 1px 5px 1px ;
+    background-color: red;
+}
+*
+{
+    background-color: black;
+}
+.array-container
+{
+    position: absolute;
+    left: 100px;
+}
+button
+{
+    padding: 8px 16px;
+    margin: 5px 10px;
+    background-color: white;
+    font-weight: bold;
+    
+}
+/* button:hover
+{
+    background-color: lightgreen;
+    cursor: pointer;
+    font-size: 15px
+} */
